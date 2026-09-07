@@ -46,13 +46,13 @@ Task/
 Follow these steps to run the project locally on your machine:
 
 ### 1. Prerequisites
-* **Node.js** (v18.x or later recommended)
-* **npm** (v9.x or later) or **yarn** / **pnpm**
+* **Node.js** 
+* **npm**
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/your-username/csat-campaign-builder.git
-cd csat-campaign-builder
+git clone https://github.com/Tushar5687/CSATCampaignBuilder.git
+cd CSATCampaignBuilder
 ```
 
 ### 3. Install Dependencies
@@ -104,11 +104,3 @@ npm run preview
    * **Screen 1 (Survey)**: Interactively select ratings, toggle reason chips, and enter comments.
    * **Screen 2 (Thank You)**: Displays uploaded media banner/icon, thank you message, and a reset button to test the flow again.
 
----
-
-## 🚢 Deployment Guide
-
-### Deploying on Vercel
-1. Push your repository to GitHub.
-2. Go to [Vercel](https://vercel.com/) and click **"Add New Project"**.
-3. Select your repository, leave default build settings (`npm run build`, output: `dist`), and click **Deploy**.

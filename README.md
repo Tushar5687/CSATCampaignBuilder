@@ -6,7 +6,7 @@ An interactive, real-time Customer Satisfaction (CSAT) survey builder with a sim
 
 ## 🚀 Live Demo & Deployment Link
 
-* **Live Deployment URL:** [https://csat-campaign-builder-eight.vercel.app/](https://csat-campaign-builder-eight.vercel.app/) *(Replace with your live production URL on Vercel/Netlify)*
+* **Live Deployment URL:** [https://csat-campaign-builder-eight.vercel.app/](https://csat-campaign-builder-eight.vercel.app/)
 
 ---
 
